@@ -1,5 +1,4 @@
 #Entity Relationship Diagram
-<hr> 
 
 Work as team to create ER diagram for one of the following:
 - Library
